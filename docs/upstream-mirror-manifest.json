@@ -1,0 +1,230 @@
+{
+ "upstream": {
+  "platform": "github",
+  "repo": "xiaochutan123l/MagLev-Project",
+  "url": "https://github.com/xiaochutan123l/MagLev-Project",
+  "commit": "c0a467f2b4bc4826393713b87079967ffd5edca8",
+  "author": "xiaochutan123l",
+  "license": "MIT",
+  "retrieved": "2026-10-20",
+  "skipped": [
+   {
+    "path": "images/IMG_1756.GIF",
+    "reason": "large animated gif 10007658 bytes, not needed for the package"
+   },
+   {
+    "path": "images/principle.gif",
+    "reason": "large animated gif 2419697 bytes, not needed for the package"
+   }
+  ]
+ },
+ "print_files": [
+  {
+   "path": "print-files/base.stl",
+   "bytes": 803284,
+   "sha256": "6d675a9aee4ea332742b86bcb128ca24f2b13cd025d1984b421162ae4337ed84",
+   "blob_sha1": "d047017aa5747939c44f7bd35c079bec31531efd",
+   "triangles": 16064
+  },
+  {
+   "path": "print-files/base_lid.stl",
+   "bytes": 73484,
+   "sha256": "efbd7b63dfd304c726c7039913c48a849db12646d13f210c2f70f28ae6c9108d",
+   "blob_sha1": "63ca3597f41ca94b177ce4a214b49c2e4ca05b0a",
+   "triangles": 1468
+  },
+  {
+   "path": "print-files/coil-former.stl",
+   "bytes": 239884,
+   "sha256": "4d3039d75429ab25c498a7756f1241a3d28a92e17b4db35f9e495798bb56522a",
+   "blob_sha1": "5d883f9315560ceb72e2635db34fc64f0bf972f3",
+   "triangles": 4796
+  },
+  {
+   "path": "print-files/full.stl",
+   "bytes": 3169984,
+   "sha256": "db9a3fa96d8aec9a432a021957bb7e41334bcf0413fb8f97d0ccc1a0aaae3df1",
+   "blob_sha1": "05a2ffa8f3492b3adead81a7044b4b0dbf562615",
+   "triangles": 63398
+  },
+  {
+   "path": "print-files/pole.stl",
+   "bytes": 1244884,
+   "sha256": "1d479f1f1316d02d4992e0389735e8a8e2dd864ead1c991c6e732d136540df0a",
+   "blob_sha1": "fd0a4d4e2339aa5f3a2af8a25f514a4bfdd1ae8a",
+   "triangles": 24896
+  },
+  {
+   "path": "print-files/top.stl",
+   "bytes": 1026484,
+   "sha256": "04e437ad1569c3241225dae907d4ee0d671af975643438a1da9ee562c561e7ce",
+   "blob_sha1": "e2ec823bf146038a56cadb91dd7cbbcd32cd652c",
+   "triangles": 20528
+  },
+  {
+   "path": "print-files/top_lid.stl",
+   "bytes": 25284,
+   "sha256": "e4ba0a5e0b0cc3335fd2d2aa4f200c4cbee9257164f5da8e3bb701ffc56600fa",
+   "blob_sha1": "63201ea7e4292ec45b98a20529c6b129df92dc74",
+   "triangles": 504
+  }
+ ],
+ "files": [
+  {
+   "path": "source/upstream/3d_model/base.stl",
+   "bytes": 803284,
+   "sha256": "6d675a9aee4ea332742b86bcb128ca24f2b13cd025d1984b421162ae4337ed84",
+   "blob_sha1": "d047017aa5747939c44f7bd35c079bec31531efd"
+  },
+  {
+   "path": "source/upstream/3d_model/base_lid.stl",
+   "bytes": 73484,
+   "sha256": "efbd7b63dfd304c726c7039913c48a849db12646d13f210c2f70f28ae6c9108d",
+   "blob_sha1": "63ca3597f41ca94b177ce4a214b49c2e4ca05b0a"
+  },
+  {
+   "path": "source/upstream/3d_model/coil-former.stl",
+   "bytes": 239884,
+   "sha256": "4d3039d75429ab25c498a7756f1241a3d28a92e17b4db35f9e495798bb56522a",
+   "blob_sha1": "5d883f9315560ceb72e2635db34fc64f0bf972f3"
+  },
+  {
+   "path": "source/upstream/3d_model/full.3dm",
+   "bytes": 4862051,
+   "sha256": "a594590bac8a70c15bc8ba4f7bcdec2ce7ccf9ae6dd6f758202ce96ac74b853e",
+   "blob_sha1": "132c2fe193bd433bd02ea3d75681bac73aa3ab96"
+  },
+  {
+   "path": "source/upstream/3d_model/full.stl",
+   "bytes": 3169984,
+   "sha256": "db9a3fa96d8aec9a432a021957bb7e41334bcf0413fb8f97d0ccc1a0aaae3df1",
+   "blob_sha1": "05a2ffa8f3492b3adead81a7044b4b0dbf562615"
+  },
+  {
+   "path": "source/upstream/3d_model/pole.stl",
+   "bytes": 1244884,
+   "sha256": "1d479f1f1316d02d4992e0389735e8a8e2dd864ead1c991c6e732d136540df0a",
+   "blob_sha1": "fd0a4d4e2339aa5f3a2af8a25f514a4bfdd1ae8a"
+  },
+  {
+   "path": "source/upstream/3d_model/top.stl",
+   "bytes": 1026484,
+   "sha256": "04e437ad1569c3241225dae907d4ee0d671af975643438a1da9ee562c561e7ce",
+   "blob_sha1": "e2ec823bf146038a56cadb91dd7cbbcd32cd652c"
+  },
+  {
+   "path": "source/upstream/3d_model/top_lid.stl",
+   "bytes": 25284,
+   "sha256": "e4ba0a5e0b0cc3335fd2d2aa4f200c4cbee9257164f5da8e3bb701ffc56600fa",
+   "blob_sha1": "63201ea7e4292ec45b98a20529c6b129df92dc74"
+  },
+  {
+   "path": "source/upstream/LICENSE",
+   "bytes": 1071,
+   "sha256": "cbc19952ee38d6d15b9a3f5672842119afe5f26d70ee2a4fa10f5862bf253ab8",
+   "blob_sha1": "c6ea519eb64ed11e4b0b7e5409f0968de581dd95"
+  },
+  {
+   "path": "source/upstream/README.md",
+   "bytes": 5897,
+   "sha256": "331c9e1b6f2a5948edf9711b580f6203c910cb68c197fc76b9d85acc4524bf6d",
+   "blob_sha1": "0ef49cfbf4bed23260a109c92cefa802c90c70ca"
+  },
+  {
+   "path": "source/upstream/docs/上拉式磁悬浮.md",
+   "bytes": 6047,
+   "sha256": "905534ff5310a74c496b41157c9b414933dfbdc8e76e060e6f42025044a2da0b",
+   "blob_sha1": "491b142a659ce49fc418fcb74d0c5936145065df"
+  },
+  {
+   "path": "source/upstream/images/Schematic_MagLev.pdf",
+   "bytes": 35906,
+   "sha256": "49b295aa57a412ce3809f83b651f67004350daefe128a18eadf099620ddabbcc",
+   "blob_sha1": "a77fc3d54b3c60f97ca60340dc51b47631152ae4"
+  },
+  {
+   "path": "source/upstream/images/Schematic_MagLev.png",
+   "bytes": 66376,
+   "sha256": "44943b84e64d40e13eedacf9e069b2d2dc937af720712e7b56e0cbb52a7ff98c",
+   "blob_sha1": "e94d8c6939ea632be123d42cffddf1ce9fe77c36"
+  },
+  {
+   "path": "source/upstream/images/Schematic_MagLev2.png",
+   "bytes": 66795,
+   "sha256": "0373d60f8fc0fa59869a0c5ad42b2ff374d9bc29bc5c5eb0bb374942e95f36d4",
+   "blob_sha1": "b61690f2fe7c25fc442a9a18bb9a35800ae5e074"
+  },
+  {
+   "path": "source/upstream/images/Schematic_MagLev_2021-11-08-2.png",
+   "bytes": 67235,
+   "sha256": "e572d7ea584929bd38dd8a7a92f1f0cf925c2dafc5921fce93414da6878954bf",
+   "blob_sha1": "9c91ac01a3dbb45f336500cd2cf16aed8c4fa0bf"
+  },
+  {
+   "path": "source/upstream/images/Schematic_MagLev_2021-11-08.png",
+   "bytes": 66654,
+   "sha256": "eef4dcfd18b0f8ee9c3d22cb09864468b9d82093ab074390960fe28452e12ede",
+   "blob_sha1": "e71366207144f8734d599accd2c29b4f39e34da9"
+  },
+  {
+   "path": "source/upstream/images/bottom-biew.JPG",
+   "bytes": 3336349,
+   "sha256": "68e66002779a71bf665873aeba97417dd646e7bacfe58d65794cebe1dc606dce",
+   "blob_sha1": "07f116616ab4fa2bb5ad3a015e1a559d0b17fd51"
+  },
+  {
+   "path": "source/upstream/images/bottom-biew2.JPG",
+   "bytes": 3758423,
+   "sha256": "74b8b8c906306b47c5faa8b53c94de096b26514ef8df949f8236091b83e3eb3f",
+   "blob_sha1": "929b8d7a97df55d0a768c82942e3b2639cc267f0"
+  },
+  {
+   "path": "source/upstream/images/circuit1.JPG",
+   "bytes": 1839748,
+   "sha256": "1477e8fd2453d0e2b31ef588c99989f12903b93891285d6245d77c9154b30ea7",
+   "blob_sha1": "2be17a036ff797052c1dab1c4fcfdfbba799cee2"
+  },
+  {
+   "path": "source/upstream/images/circuit2.JPG",
+   "bytes": 2352414,
+   "sha256": "21393eb6b993cc64d805d1d45fa7ff195a731f4ab3ee78e9b86b796402f55408",
+   "blob_sha1": "37175bb572600558de571c0a54da9ea861af0a57"
+  },
+  {
+   "path": "source/upstream/images/hall-circuit.JPG",
+   "bytes": 2193892,
+   "sha256": "d0c96179fee0cad8793aa9326c4fa782016e594f7f5c252e6b971bef737c5236",
+   "blob_sha1": "fb312b7789ab0fbadaeb1d870935f92136ee286f"
+  },
+  {
+   "path": "source/upstream/images/top-view.JPG",
+   "bytes": 3423660,
+   "sha256": "7d5fed9356477218d50cace2c046f02c40cb1dd1a10f1fdb0396ba9da3bb11e7",
+   "blob_sha1": "33e9b2e0855226c7ef5cb8b31cc5dd896890a338"
+  },
+  {
+   "path": "source/upstream/images/top-view2.jpg",
+   "bytes": 3825771,
+   "sha256": "208b97072d27c66d094acff5ca473ada059f179247665ed747085478a70e5883",
+   "blob_sha1": "3d199e699c9efed4f4356246f5d0dd00c95e6964"
+  },
+  {
+   "path": "source/upstream/images/youtube.jpg",
+   "bytes": 23126,
+   "sha256": "fe58be38a3987fbcec40c114642beab09574ac233dbe89ba267325abd84d992f",
+   "blob_sha1": "be7207e7582c16732c96d3e0eb426393330d3d3b"
+  },
+  {
+   "path": "source/upstream/src/pullUpMagLev.ino",
+   "bytes": 1637,
+   "sha256": "c6b8666b6dcfd055b78a180e6e45f67ad568f42d38216554d78a7635aabf9624",
+   "blob_sha1": "cff413f914c24eff2ef473bd29c86910590bae27"
+  },
+  {
+   "path": "source/upstream/src/pullUpMagLev_adaptive.ino",
+   "bytes": 2456,
+   "sha256": "763d4ce1f138b57a9ab7e07c40734e0b9fe965ce277924f4a1dc21f2a578d989",
+   "blob_sha1": "e81bbd85ec8672dd47121824e00f584b48c0b776"
+  }
+ ]
+}
